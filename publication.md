@@ -10,5 +10,7 @@ redirect_from:
 
 # Publications
 
+<!--author-->
+
 ## Peer Reviewed Journal
 
