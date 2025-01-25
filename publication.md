@@ -33,11 +33,4 @@ redirect_from:
 [10] J. Kim, H-J. Park, A. Penumarti, J. Shin (2024). Fast Marching based Rendezvous Path Planning for a Team of Heterogeneous Vehicles IEEE ACCESS, available at: link.  
 
 
-**Hydejack** is a boutique [Jekyll] theme for hackers, nerds, and academics, with a focus on personal sites that are meant to impress. 
-
-It includes a blog that is suitable for both prose and technical documentation, a portfolio to showcase your projects, and a resume template that looks amazing on the web and in print.
-
-> Your complete presence on the web — A [blog], [portfolio], and [resume].
-{:.lead}
-
 
