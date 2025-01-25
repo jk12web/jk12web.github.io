@@ -2,17 +2,18 @@
 layout: about
 image: /assets/img/blog/hydejack-9.jpg
 description: >
-  List of present and past students
+  A boutique Jekyll theme for hackers, nerds, and academics,
+  with a focus on personal sites that are meant to impress.
 hide_description: true
 redirect_from:
   - /download/
 ---
 
-# Students 
+# About
 
 <!--author-->
 
-## Graduate Students 
+## Hydejack
 
 A boutique Jekyll theme for hackers, nerds, and academics.  
 {:.lead}
@@ -24,18 +25,3 @@ A boutique Jekyll theme for hackers, nerds, and academics.
 
 Hydejack's cover page on a variety of screen sizes.
 {:.figcaption}
-
-
-**Hydejack** is a boutique [Jekyll] theme for hackers, nerds, and academics, with a focus on personal sites that are meant to impress. 
-
-It includes a blog that is suitable for both prose and technical documentation, a portfolio to showcase your projects, and a resume template that looks amazing on the web and in print.
-
-> Your complete presence on the web — A [blog], [portfolio], and [resume].
-{:.lead}
-
-
-## Undergraduate Students 
-
-**Hydejack** is 100% built on Open Source software, and is Open Source itself, save for parts of the PRO version. The PRO version is a one-time payment that gives you the right to use it forever.
-
-Hydejack is all static sites. _HTML_. All you need is a web server — any web server — to have a professional web presence that lasts a lifetime.
