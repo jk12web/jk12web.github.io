@@ -17,8 +17,6 @@ redirect_from:
 
 Topic: Modeling and Simulations of Arc Plasma
 
-![Screenshot](/assets/img/students/subin.jpeg){:.lead width="480" height="640" loading="lazy"}
-
 <img src="/assets/img/students/subin.jpeg" alt="subin" style="width:150px;height:165px;">
 
 # Undergraduate Students
