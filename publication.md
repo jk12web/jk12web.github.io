@@ -32,3 +32,18 @@ redirect_from:
 [9] H.-J. Park, J. Kim, H. Kim (2024). Segment-Based Wall Treatment Model for Heat Transfer Rate in Smoothed Particle Hydrodynamics, Physics of Fluid, available at: link.
 
 [10] J. Kim, H-J. Park, A. Penumarti, J. Shin (2024). Fast Marching based Rendezvous Path Planning for a Team of Heterogeneous Vehicles IEEE ACCESS, available at: link.
+
+## Thesis 
+
+[1] J. Kim , Models for grain microstructure evolution and grain statistics University of Illinois at Urbana Champaign, available at: IDEALS.
+
+## Preprints
+
+[0]
+
+## Working Papers 
+
+[1] H-J. Park, J. Kim Insights into Granular Material Flow Modeling: DEM vs. SPH Perspectives
+
+[2] S. Choi, D. H. Lee, J. Choi, J. Kim Numerical Modeling of n-Hexane Hydropyrolysis with an Optimized Kinetic Mechanism in a Rotating Gliding Arc Reactor
+
