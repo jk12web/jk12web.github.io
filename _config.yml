@@ -57,6 +57,8 @@ menu:
     url:               /docs/
   - title:             Students
     url:               /students/
+  - title:             Publications
+    url:               /publication/
   - title:             About
     url:               /about/
 
