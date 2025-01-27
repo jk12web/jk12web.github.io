@@ -55,6 +55,8 @@ menu:
     url:               /example/
   - title:             Documentation
     url:               /docs/
+  - title:             Students
+    url:               /students/
   - title:             About
     url:               /about/
 
