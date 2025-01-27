@@ -10,7 +10,7 @@ redirect_from:
 
 # Students
 
-# Graduate Students
+## Graduate Students
 
 
 **Subin Choi**
@@ -19,7 +19,7 @@ Topic: Modeling and Simulations of Arc Plasma
 
 <img src="/assets/img/students/subin.jpeg" alt="subin" style="width:150px;height:165px;">
 
-# Undergraduate Students
+## Undergraduate Students
 
 **Hoyeon Kim**
 
