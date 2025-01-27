@@ -27,17 +27,18 @@ Topic: Modeling and Simulations of Arc Plasma
 
 Topic: Fluid Simulation
 
-![Screenshot](/assets/img/students/hoyeon.jpeg){:.lead width="480" height="640" loading="lazy"}
+<img src="/assets/img/students/hoyeon.jpeg" alt="subin" style="width:150px;height:165px;">
 
 **Jihoon Myung**
 
 Topic: Quantum Computing
 
-![Screenshot](/assets/img/students/myungjihoon.jpg){:.lead width="480" height="640" loading="lazy"}
+<img src="/assets/img/students/myungjihoon.jpg" alt="subin" style="width:150px;height:165px;">
 
 **Songhyun Gwak**
 
 Topic: Computational Mechanics
 
-![Screenshot](/assets/img/students/songhyun.jpeg){:.lead width="480" height="640" loading="lazy"}
+<img src="/assets/img/students/songhyun.jpeg" alt="subin" style="width:150px;height:165px;">
+
 
