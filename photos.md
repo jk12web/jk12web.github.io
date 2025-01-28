@@ -40,7 +40,7 @@ Congratulations on her academic debut!
 
 <img src="assets/img/photo/ictam2024.jpg" alt="No rendering" style="width:50%">  
 
-Prof. Kim gave a talk in International Congress of Theoretical and Applied Mechanics at Daegue in 2024. <br> </figcaption>
+Prof. Kim gave a talk in International Congress of Theoretical and Applied Mechanics at Daegue in 2024. 
 
 ## Conference 
 **2023. 11.04**  
