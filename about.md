@@ -11,6 +11,8 @@ redirect_from:
 
 # About
 
+<img src="/assets/img/aboutpic.png" alt="jkteaching" style="width:330px;height:300px;">
+
 ## Contact
 
 jk12@hongik.ac.kr  
