@@ -49,6 +49,8 @@ author:
 
 # Add links to the sidebar.
 menu:
+  - title:             Prof. Kim
+    url:               /about/
   - title:             News2
     url:               /news/
   - title:             News
@@ -59,9 +61,6 @@ menu:
     url:               /students/
   - title:             Publications
     url:               /publication/
-  - title:             About
-    url:               /about/
-
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
