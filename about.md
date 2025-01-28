@@ -21,14 +21,14 @@ Room D213-1, 2639 Jochiwon-eup Sejong-ro, Sejoing Si, South Korea
 
 ## Professional Career
 
-Assistant Professor, Hongik University, Department of Mechanical and Design Engineering, Sep. 2023 -  
+Assistant Professor, Hongik University, Department of Mechanical and Design Engineering, Sep. 2023-  
 
 ## Educational Qualification
 
-Ph.D. in Theoretical and Applied Mechanics, University of Illinois at Urbana-Champaign (2018-2023)
+Ph.D. in Theoretical and Applied Mechanics, University of Illinois at Urbana-Champaign (2018-2023)  
 Advisor: Nikhil Admal
 
-M.S. in Theoretical and Applied Mechanics, University of Illinois at Urbana-Champaign (2016-2018)
+M.S. in Theoretical and Applied Mechanics, University of Illinois at Urbana-Champaign (2016-2018)  
 Advisor: Randy Ewoldt
 
 B.S. in Naval Architecture and Ocean Engineering, Seoul National University (2009-2015)
@@ -51,4 +51,11 @@ B.S. in Naval Architecture and Ocean Engineering, Seoul National University (200
 [4] 16th U.S. National Congress on Computational Mechanics, A Thresholding Method for the Kobayashi-Warren-Carter Grain Boundary Model with General Mobilities, J. Kim, M. Jacobs, N. C. Admal, 26th July 2021,Virtual Conference (COVID-19).  
 [5] 19th National Congress on Theoretical and Applied Mechanics, A stochastic framework for evolving grain statistics using a neural network model for grain topology transformations, J. Kim, N. C. Admal, 22th June 2022, Austin, TX USA.  
 [6] The 10th International Conference on Multiscale Materials Modeling, A stochastic framework for efficiently evolving grain statistics, J. Kim, N. C. Admal, 4th October 2022, Baltimore, MD, USA.  
+
+## Services 
+
+2025 공학교육인증(EAC/CAC) 기계공학 심화 프로그램 평가 위원  
+2024년 지방직 공무원 9급 공개경쟁 채용 시험위원  
+2024년 7급 공무원 공개경쟁 채용 시험위원  
+2024년 과학기술정보통신부 경력경쟁 채용시험 심사위원  
 
