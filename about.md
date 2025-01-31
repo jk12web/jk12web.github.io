@@ -34,23 +34,50 @@ Advisor: Randy Ewoldt
 B.S. in Naval Architecture and Ocean Engineering, Seoul National University (2009-2015)
 
 
-## Invited Talks
+## Honor and  Awards
 
-[1] National Center for Supercomputing Applications, Industrial application group, January 27th, 2022.  
-[2] University of Illinois at Urbana-Champaign, TAM Ph.D. Seminar presentation, July 13th, 2022.  
-[3] Korea Institutie of Science and Technology, Advanced Material Division, Adjoint-based sensitivity analysis of non-Newtonian fluid flows, March 15th, 2023.  
-[4] Gyeongsang National University, School of Mechanical Engineering, Advances in computational mechanics and simulations with various applications, June 9th, 2023  
-[5] Angel’s wing company, Drone databased startup company, “Path optimization of unmanned vehicles using the Fast Marching Method based framework”, Aug 9th, 2023  
+Teaching Fellowship, University of Illinois Mechanical Science and Engineering Department, Summer 2022.
+
+SNUAA Scholarship, Seoul National University Alumni Association in Chicago Area, 2021.
+
+The Schaller Travel Award a graduate student funding for participating in a technical meeting/symposium,
+University of Illinois Graduate College, 2021.  
+
+Graduation with Honors, Summa Cum Laude, Ranked No.1 in the department, President of Seoul National
+University, South Korea, 2015.  
+
+Exchange Student Scholarship, Australian government, amount of 5000ASD, Australia, 2014.  
+
+National Science & Technology Scholarship, Ministry of Science and Technology, South Korea, 2012–2015.  
+
+Member of Seoul National University Engineering College honor society, STEM, 2013 - present.  
+
+Excellence Award in Writing in Science and Technology, Dean of College of Engineering, Seoul National
+University, South Korea, 2013.  
+
+Excellence Award in Student Ship Design Competition, Society of Naval Architects, South Korea, 2013.  
 
 
-## Conferences 
+## Outreach Activities 
 
-[1] Society of Rheology 89th Annual Meeting, Student Poster, Uncertainty Propagation in Simulation Predictions of Generalized Newtonian Fluid Flows, J. Kim, P. K. Singh, J.B. Freund R. H. Ewoldt, 11 October 2017, Denver, USA.  
-[2] Society of Rheology 90th Annual Meeting, Field sensitivity of flow predictions to rheological parameters, J.B. Freund, J. Kim, R. H. Ewoldt,16 October 2018, Houston, USA.  
-[3] 2020 Society of Engineering Science, A fast thresholding algorithm for the Kobayashi-Warren-Carter grain boundary model, J. Kim, M. Jacobs, N. C. Admal, , 29 September - 1 October 2020, Virtual Conference (COVID-19)  
-[4] 16th U.S. National Congress on Computational Mechanics, A Thresholding Method for the Kobayashi-Warren-Carter Grain Boundary Model with General Mobilities, J. Kim, M. Jacobs, N. C. Admal, 26th July 2021,Virtual Conference (COVID-19).  
-[5] 19th National Congress on Theoretical and Applied Mechanics, A stochastic framework for evolving grain statistics using a neural network model for grain topology transformations, J. Kim, N. C. Admal, 22th June 2022, Austin, TX USA.  
-[6] The 10th International Conference on Multiscale Materials Modeling, A stochastic framework for efficiently evolving grain statistics, J. Kim, N. C. Admal, 4th October 2022, Baltimore, MD, USA.  
+Coauthor, “Why we decided to go to engineering college” (Korean), Megastudy Books, 2021.  
+
+Lab Assistant in social outreach program, Worldwide Youth in Science and Engineering Program, 2020,2021,2022
+Summer.  
+
+Industry intern, Samsung Electronics Mechatronics Research Center, Advanced Technology Research Group, 2020
+Summer.  
+
+Member of Korean Tennis Club at Champaign District, 2019-2023.  
+
+Exhibitor, Engineering Open House, Rheology Zoo, 2017, 2018.  
+
+Undergrad Exchange Student, Chemical Engineering Department, Monash University, Australia, 2014.  
+
+Industry internship, Korea Register of Shipping, 2013 Winter.  
+
+Military Service, Korea Army Training Center, South Korea, 2010–2012.  
+
 
 ## Services 
 
