@@ -51,12 +51,6 @@ author:
 menu:
   - title:             Prof. Kim
     url:               /about/
-  - title:             News2
-    url:               /news/
-  - title:             News
-    url:               /example/
-  - title:             Documentation
-    url:               /docs/
   - title:             Students
     url:               /students/
   - title:             Publications
