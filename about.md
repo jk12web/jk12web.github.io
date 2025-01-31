@@ -16,8 +16,8 @@ redirect_from:
 ## Contact
 
 jk12@hongik.ac.kr  
-
 Room D213-1, 2639 Jochiwon-eup Sejong-ro, Sejoing Si, South Korea  
+TEL) 044-860-2624  
 
 ## Professional Career
 
