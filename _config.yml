@@ -42,8 +42,8 @@ logo:                  /assets/img/logo_profile.png
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:                <firstname> <lastname>
-  email:               <mail@domain.tld>
+  name:                <Jaekwang> <Kim>
+  email:               <jk12@hongik.ac.kr>
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
