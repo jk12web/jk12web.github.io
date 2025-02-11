@@ -3,7 +3,7 @@ layout: post
 title: Research Highlight 
 description: >
 image: 
-  path: /assets/img/blog/example-content-iii.jpg
+  path: /assets/img/research/neuralNetStochastic.png
   srcset:
     1060w: /assets/img/blog/example-content-iii.jpg
     530w:  /assets/img/blog/example-content-iii@0,5x.jpg
@@ -12,9 +12,7 @@ related_posts:
 sitemap: false
 ---
 
-Hydejack offers a few additional features to markup your markdown.
-Don't worry, these are merely CSS classes added with kramdown's `{:...}` syntax,
-so that your content remains compatible with other Jekyll themes.
+Reduced order modeling using artifical neural network functions
 
 ## Large Tables
 
